@@ -1,9 +1,10 @@
 public calss ClaseA{
   private string x;
   private int y;
+  private int z;
   
   public ClaseA(){
-    x=0;
+    x="";
     y=0;
   }
   
